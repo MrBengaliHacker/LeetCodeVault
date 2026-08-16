@@ -1,8 +1,8 @@
 # LeetCodeVault
 
-![Language](https://img.shields.io/badge/Language-C%2B%2B-blue)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-10-brightgreen)
-![Status](https://img.shields.io/badge/Status-Active-success)
+![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-14-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 A structured collection of my LeetCode solutions, built as a long-term journey from programming fundamentals to advanced Data Structures and Algorithms.
 
@@ -23,7 +23,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 
 ## 01 - Arrays
 
-📁 [View folder](./LeetCode/01-Arrays) — **5/28** 🚧 In Progress
+📁 [View folder](./LeetCode/01-Arrays) — **9/28** 🚧 In Progress
 
 | # | Problem | Difficulty |
 |---|---------|-----------|
@@ -32,6 +32,10 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 | 1470 | [Shuffle the Array](./LeetCode/01-Arrays/1470-Shuffle-the-Array.cpp) | Easy |
 | 1431 | [Kids With the Greatest Number of Candies](./LeetCode/01-Arrays/1431-Kids-With-the-Greatest-Number-of-Candies.cpp) | Easy |
 | 1672 | [Richest Customer Wealth](./LeetCode/01-Arrays/1672-Richest-Customer-Wealth.cpp) | Easy |
+| 1 | [Two Sum](./LeetCode/01-Arrays/1-Two-Sum.cpp) | Easy |
+| 217 | [Contains Duplicate](./LeetCode/01-Arrays/217-Contains-Duplicate.cpp) | Easy |
+| 121 | [Best Time to Buy and Sell Stock](./LeetCode/01-Arrays/121-Best-Time-to-Buy-and-Sell-Stock.cpp) | Easy |
+| 136 | [Single Number](./LeetCode/01-Arrays/136-Single-Number.cpp) | Easy |
 
 ---
 
