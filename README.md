@@ -1,7 +1,7 @@
 # LeetCodeVault
 
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-14-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-20-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 A structured collection of my LeetCode solutions, built as a long-term journey from programming fundamentals to advanced Data Structures and Algorithms.
@@ -23,7 +23,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 
 ## 01 - Arrays
 
-📁 [View folder](./LeetCode/01-Arrays) — **9/28** 🚧 In Progress
+📁 [View folder](./LeetCode/01-Arrays) — **15/29** 🚧 In Progress
 
 | # | Problem | Difficulty |
 |---|---------|-----------|
@@ -36,6 +36,12 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 | 217 | [Contains Duplicate](./LeetCode/01-Arrays/217-Contains-Duplicate.cpp) | Easy |
 | 121 | [Best Time to Buy and Sell Stock](./LeetCode/01-Arrays/121-Best-Time-to-Buy-and-Sell-Stock.cpp) | Easy |
 | 136 | [Single Number](./LeetCode/01-Arrays/136-Single-Number.cpp) | Easy |
+| 268 | [Missing Number](./LeetCode/01-Arrays/268-Missing-Number.cpp) | Easy |
+| 448 | [Find All Numbers Disappeared in an Array](./LeetCode/01-Arrays/448-Find-All-Numbers-Disappeared-in-an-Array.cpp) | Easy |
+| 283 | [Move Zeroes](./LeetCode/01-Arrays/283-Move-Zeroes.cpp) | Easy |
+| 167 | [Two Sum II - Input Array Is Sorted](./LeetCode/01-Arrays/167-Two-Sum-II-Input-Array-Is-Sorted.cpp) | Medium |
+| 26 | [Remove Duplicates from Sorted Array](./LeetCode/01-Arrays/26-Remove-Duplicates-from-Sorted-Array.cpp) | Easy |
+| 88 | [Merge Sorted Array](./LeetCode/01-Arrays/88-Merge-Sorted-Array.cpp) | Easy |
 
 ---
 
@@ -45,6 +51,8 @@ Each solution includes:
 
 - Problem statement
 - Examples
+- Technique / DSA pattern
+- Key idea
 - Approach
 - Time and space complexity
 - C++ solution
