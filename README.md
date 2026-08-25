@@ -1,7 +1,7 @@
 # LeetCodeVault
 
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-20-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-27-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 A structured collection of my LeetCode solutions, built as a long-term journey from programming fundamentals to advanced Data Structures and Algorithms.
@@ -23,7 +23,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 
 ## 01 - Arrays
 
-📁 [View folder](./LeetCode/01-Arrays) — **15/29** 🚧 In Progress
+📁 [View folder](./LeetCode/01-Arrays) — **22/29** 🚧 In Progress
 
 | # | Problem | Difficulty |
 |---|---------|-----------|
@@ -42,6 +42,13 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 | 167 | [Two Sum II - Input Array Is Sorted](./LeetCode/01-Arrays/167-Two-Sum-II-Input-Array-Is-Sorted.cpp) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](./LeetCode/01-Arrays/26-Remove-Duplicates-from-Sorted-Array.cpp) | Easy |
 | 88 | [Merge Sorted Array](./LeetCode/01-Arrays/88-Merge-Sorted-Array.cpp) | Easy |
+| 169 | [Majority Element](./LeetCode/01-Arrays/169-Majority-Element.cpp) | Easy |
+| 189 | [Rotate Array](./LeetCode/01-Arrays/189-Rotate-Array.cpp) | Medium |
+| 31 | [Next Permutation](./LeetCode/01-Arrays/31-Next-Permutation.cpp) | Medium |
+| 53 | [Maximum Subarray](./LeetCode/01-Arrays/53-Maximum-Subarray.cpp) | Medium |
+| 724 | [Find Pivot Index](./LeetCode/01-Arrays/724-Find-Pivot-Index.cpp) | Easy |
+| 238 | [Product of Array Except Self](./LeetCode/01-Arrays/238-Product-of-Array-Except-Self.cpp) | Medium |
+| 643 | [Maximum Average Subarray I](./LeetCode/01-Arrays/643-Maximum-Average-Subarray-I.cpp) | Easy |
 
 ---
 
@@ -67,18 +74,26 @@ Each solution includes:
 
 ## Roadmap
 
+### Data Structures & Core Topics
 - Programming Basics
 - Arrays
 - Strings
 - Linked Lists
 - Stacks & Queues
 - Hashing
-- Two Pointers
-- Sliding Window
-- Binary Search
 - Trees
 - Heaps & Priority Queues
 - Graphs
+
+### Algorithmic Patterns
+- Two Pointers
+- Sliding Window
+- Binary Search
+- Prefix Sum
+- Greedy
+- Backtracking
+
+### Advanced Algorithms
 - Dynamic Programming
 - Advanced Data Structures & Algorithms
 
