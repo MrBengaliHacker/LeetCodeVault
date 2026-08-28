@@ -1,7 +1,7 @@
 # LeetCodeVault
 
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-27-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-30-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 A structured collection of my LeetCode solutions, built as a long-term journey from programming fundamentals to advanced Data Structures and Algorithms.
@@ -9,46 +9,50 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 ---
 
 ## 00 - Programming Basics
-📁 [View folder](./LeetCode/00-Programming-Basics) — 5/5 ✅ Complete
 
-| # | Problem | Difficulty |
-|---|---------|-----------|
-| 2235 | [Add Two Integers](./LeetCode/00-Programming-Basics/2235-Add-Two-Integers.cpp) | Easy |
-| 412 | [Fizz Buzz](./LeetCode/00-Programming-Basics/412-Fizz-Buzz.cpp) | Easy |
-| 1342 | [Number of Steps to Reduce a Number to Zero](./LeetCode/00-Programming-Basics/1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.cpp) | Easy |
-| 1281 | [Subtract the Product and Sum of Digits](./LeetCode/00-Programming-Basics/1281-Subtract-the-Product-and-Sum-of-Digits.cpp) | Easy |
-| 258 | [Add Digits](./LeetCode/00-Programming-Basics/258-Add-Digits.cpp) | Easy |
+📁 [View folder](./LeetCode/00-Programming-Basics) — **5/5** ✅ Complete
+
+| # | Problem | Difficulty | Technique |
+|---|---------|-----------|-----------|
+| 2235 | [Add Two Integers](./LeetCode/00-Programming-Basics/2235-Add-Two-Integers.cpp) | Easy | Basic Arithmetic |
+| 412 | [Fizz Buzz](./LeetCode/00-Programming-Basics/412-Fizz-Buzz.cpp) | Easy | Conditionals |
+| 1342 | [Number of Steps to Reduce a Number to Zero](./LeetCode/00-Programming-Basics/1342-Number-of-Steps-to-Reduce-a-Number-to-Zero.cpp) | Easy | Loops / Bit Manipulation |
+| 1281 | [Subtract the Product and Sum of Digits](./LeetCode/00-Programming-Basics/1281-Subtract-the-Product-and-Sum-of-Digits.cpp) | Easy | Digit Manipulation |
+| 258 | [Add Digits](./LeetCode/00-Programming-Basics/258-Add-Digits.cpp) | Easy | Digit Manipulation |
 
 ---
 
 ## 01 - Arrays
 
-📁 [View folder](./LeetCode/01-Arrays) — **22/29** 🚧 In Progress
+📁 [View folder](./LeetCode/01-Arrays) — **25/30** 🚧 In Progress
 
-| # | Problem | Difficulty |
-|---|---------|-----------|
-| 1480 | [Running Sum of 1d Array](./LeetCode/01-Arrays/1480-Running-Sum-of-1d-Array.cpp) | Easy |
-| 1929 | [Concatenation of Array](./LeetCode/01-Arrays/1929-Concatenation-of-Array.cpp) | Easy |
-| 1470 | [Shuffle the Array](./LeetCode/01-Arrays/1470-Shuffle-the-Array.cpp) | Easy |
-| 1431 | [Kids With the Greatest Number of Candies](./LeetCode/01-Arrays/1431-Kids-With-the-Greatest-Number-of-Candies.cpp) | Easy |
-| 1672 | [Richest Customer Wealth](./LeetCode/01-Arrays/1672-Richest-Customer-Wealth.cpp) | Easy |
-| 1 | [Two Sum](./LeetCode/01-Arrays/1-Two-Sum.cpp) | Easy |
-| 217 | [Contains Duplicate](./LeetCode/01-Arrays/217-Contains-Duplicate.cpp) | Easy |
-| 121 | [Best Time to Buy and Sell Stock](./LeetCode/01-Arrays/121-Best-Time-to-Buy-and-Sell-Stock.cpp) | Easy |
-| 136 | [Single Number](./LeetCode/01-Arrays/136-Single-Number.cpp) | Easy |
-| 268 | [Missing Number](./LeetCode/01-Arrays/268-Missing-Number.cpp) | Easy |
-| 448 | [Find All Numbers Disappeared in an Array](./LeetCode/01-Arrays/448-Find-All-Numbers-Disappeared-in-an-Array.cpp) | Easy |
-| 283 | [Move Zeroes](./LeetCode/01-Arrays/283-Move-Zeroes.cpp) | Easy |
-| 167 | [Two Sum II - Input Array Is Sorted](./LeetCode/01-Arrays/167-Two-Sum-II-Input-Array-Is-Sorted.cpp) | Medium |
-| 26 | [Remove Duplicates from Sorted Array](./LeetCode/01-Arrays/26-Remove-Duplicates-from-Sorted-Array.cpp) | Easy |
-| 88 | [Merge Sorted Array](./LeetCode/01-Arrays/88-Merge-Sorted-Array.cpp) | Easy |
-| 169 | [Majority Element](./LeetCode/01-Arrays/169-Majority-Element.cpp) | Easy |
-| 189 | [Rotate Array](./LeetCode/01-Arrays/189-Rotate-Array.cpp) | Medium |
-| 31 | [Next Permutation](./LeetCode/01-Arrays/31-Next-Permutation.cpp) | Medium |
-| 53 | [Maximum Subarray](./LeetCode/01-Arrays/53-Maximum-Subarray.cpp) | Medium |
-| 724 | [Find Pivot Index](./LeetCode/01-Arrays/724-Find-Pivot-Index.cpp) | Easy |
-| 238 | [Product of Array Except Self](./LeetCode/01-Arrays/238-Product-of-Array-Except-Self.cpp) | Medium |
-| 643 | [Maximum Average Subarray I](./LeetCode/01-Arrays/643-Maximum-Average-Subarray-I.cpp) | Easy |
+| # | Problem | Difficulty | Technique |
+|---|---------|-----------|-----------|
+| 1480 | [Running Sum of 1d Array](./LeetCode/01-Arrays/1480-Running-Sum-of-1d-Array.cpp) | Easy | Running Sum |
+| 1929 | [Concatenation of Array](./LeetCode/01-Arrays/1929-Concatenation-of-Array.cpp) | Easy | Array Construction |
+| 1470 | [Shuffle the Array](./LeetCode/01-Arrays/1470-Shuffle-the-Array.cpp) | Easy | Index Mapping |
+| 1431 | [Kids With the Greatest Number of Candies](./LeetCode/01-Arrays/1431-Kids-With-the-Greatest-Number-of-Candies.cpp) | Easy | Traversal + Maximum |
+| 1672 | [Richest Customer Wealth](./LeetCode/01-Arrays/1672-Richest-Customer-Wealth.cpp) | Easy | 2D Array Traversal |
+| 1 | [Two Sum](./LeetCode/01-Arrays/1-Two-Sum.cpp) | Easy | Hashing |
+| 217 | [Contains Duplicate](./LeetCode/01-Arrays/217-Contains-Duplicate.cpp) | Easy | Hashing |
+| 121 | [Best Time to Buy and Sell Stock](./LeetCode/01-Arrays/121-Best-Time-to-Buy-and-Sell-Stock.cpp) | Easy | Greedy / One-Pass |
+| 136 | [Single Number](./LeetCode/01-Arrays/136-Single-Number.cpp) | Easy | Bit Manipulation / XOR |
+| 268 | [Missing Number](./LeetCode/01-Arrays/268-Missing-Number.cpp) | Easy | Bit Manipulation / XOR |
+| 448 | [Find All Numbers Disappeared in an Array](./LeetCode/01-Arrays/448-Find-All-Numbers-Disappeared-in-an-Array.cpp) | Easy | In-Place Index Marking |
+| 283 | [Move Zeroes](./LeetCode/01-Arrays/283-Move-Zeroes.cpp) | Easy | Two Pointers |
+| 167 | [Two Sum II - Input Array Is Sorted](./LeetCode/01-Arrays/167-Two-Sum-II-Input-Array-Is-Sorted.cpp) | Medium | Two Pointers |
+| 26 | [Remove Duplicates from Sorted Array](./LeetCode/01-Arrays/26-Remove-Duplicates-from-Sorted-Array.cpp) | Easy | Two Pointers |
+| 88 | [Merge Sorted Array](./LeetCode/01-Arrays/88-Merge-Sorted-Array.cpp) | Easy | Two Pointers |
+| 169 | [Majority Element](./LeetCode/01-Arrays/169-Majority-Element.cpp) | Easy | Boyer-Moore Voting |
+| 189 | [Rotate Array](./LeetCode/01-Arrays/189-Rotate-Array.cpp) | Medium | Array Reversal |
+| 31 | [Next Permutation](./LeetCode/01-Arrays/31-Next-Permutation.cpp) | Medium | Permutation |
+| 53 | [Maximum Subarray](./LeetCode/01-Arrays/53-Maximum-Subarray.cpp) | Medium | Kadane's Algorithm |
+| 724 | [Find Pivot Index](./LeetCode/01-Arrays/724-Find-Pivot-Index.cpp) | Easy | Prefix Sum |
+| 238 | [Product of Array Except Self](./LeetCode/01-Arrays/238-Product-of-Array-Except-Self.cpp) | Medium | Prefix / Suffix |
+| 643 | [Maximum Average Subarray I](./LeetCode/01-Arrays/643-Maximum-Average-Subarray-I.cpp) | Easy | Sliding Window |
+| 75 | [Sort Colors](./LeetCode/01-Arrays/75-Sort-Colors.cpp) | Medium | Dutch National Flag |
+| 11 | [Container With Most Water](./LeetCode/01-Arrays/11-Container-With-Most-Water.cpp) | Medium | Two Pointers |
+| 42 | [Trapping Rain Water](./LeetCode/01-Arrays/42-Trapping-Rain-Water.cpp) | Hard | Two Pointers + Left/Right Maximum |
 
 ---
 
@@ -74,13 +78,13 @@ Each solution includes:
 
 ## Roadmap
 
-### Data Structures & Core Topics
+### Core Topics
 - Programming Basics
 - Arrays
 - Strings
+- Hashing
 - Linked Lists
 - Stacks & Queues
-- Hashing
 - Trees
 - Heaps & Priority Queues
 - Graphs
@@ -90,11 +94,16 @@ Each solution includes:
 - Sliding Window
 - Binary Search
 - Prefix Sum
+- Sorting
 - Greedy
 - Backtracking
+- Intervals
+- Bit Manipulation
+- Recursion
 
 ### Advanced Algorithms
 - Dynamic Programming
+- Advanced Graph Algorithms
 - Advanced Data Structures & Algorithms
 
 ---
