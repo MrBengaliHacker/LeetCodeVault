@@ -55,6 +55,7 @@ efficiently.
 | 167 | Two Sum II - Input Array Is Sorted | Two Pointers — Opposite Direction | [LeetCode](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | [Solution](./LeetCode/01-Arrays/167-Two-Sum-II-Input-Array-Is-Sorted.cpp) |
 | 11 | Container With Most Water | Two Pointers — Opposite Direction | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | [Solution](./LeetCode/01-Arrays/11-Container-With-Most-Water.cpp) |
 | 42 | Trapping Rain Water | Two Pointers — Left/Right Maximum | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./LeetCode/01-Arrays/42-Trapping-Rain-Water.cpp) |
+| 15 | 3Sum | Sorting + Two Pointers | [LeetCode](https://leetcode.com/problems/3sum/) | [Solution](./LeetCode/01-Arrays/15-3Sum.cpp) |
 
 ---
 
