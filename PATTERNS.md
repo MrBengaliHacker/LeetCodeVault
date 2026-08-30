@@ -78,6 +78,7 @@ Use cumulative sums to avoid repeatedly calculating sums.
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
 | 724 | Find Pivot Index | Prefix Sum | [LeetCode](https://leetcode.com/problems/find-pivot-index/) | [Solution](./LeetCode/01-Arrays/724-Find-Pivot-Index.cpp) |
+| 560 | Subarray Sum Equals K | Prefix Sum + Hash Map | [LeetCode](https://leetcode.com/problems/subarray-sum-equals-k/) | [Solution](./LeetCode/01-Arrays/560-Subarray-Sum-Equals-K.cpp) |
 
 ---
 
@@ -207,3 +208,6 @@ Two Sum
 
 Merge Intervals
 → Intervals + Sorting
+
+Subarray Sum Equals K
+→ Prefix Sum + Hash Map

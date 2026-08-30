@@ -1,7 +1,7 @@
 # LeetCodeVault
 
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-32-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-33-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 A structured collection of my LeetCode solutions, built as a long-term journey from programming fundamentals to advanced Data Structures and Algorithms.
@@ -24,7 +24,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 
 ## 01 - Arrays
 
-📁 [View folder](./LeetCode/01-Arrays) — **27/30** 🚧 In Progress
+📁 [View folder](./LeetCode/01-Arrays) — **28/30** 🚧 In Progress
 
 | # | Problem | Difficulty | Technique |
 |---|---------|-----------|-----------|
@@ -55,7 +55,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 | 42 | [Trapping Rain Water](./LeetCode/01-Arrays/42-Trapping-Rain-Water.cpp) | Hard | Two Pointers + Left/Right Maximum |
 | 15 | [3Sum](./LeetCode/01-Arrays/15-3Sum.cpp) | Medium | Sorting + Two Pointers |
 | 56 | [Merge Intervals](./LeetCode/01-Arrays/56-Merge-Intervals.cpp) | Medium | Intervals + Sorting |
-
+| 560 | [Subarray Sum Equals K](./LeetCode/01-Arrays/560-Subarray-Sum-Equals-K.cpp) | Medium | Prefix Sum + Hash Map |
 ---
 
 ## Solution Format
