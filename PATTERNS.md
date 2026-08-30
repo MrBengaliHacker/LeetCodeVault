@@ -174,6 +174,16 @@ Partition an array into three regions using three pointers.
 
 ---
 
+## 15. Intervals
+
+Sort intervals and merge overlapping ranges while traversing them.
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+| 56 | Merge Intervals | Sorting + Interval Merging | [LeetCode](https://leetcode.com/problems/merge-intervals/) | [Solution](./LeetCode/01-Arrays/56-Merge-Intervals.cpp) |
+
+---
+
 # Pattern Notes
 
 ### Problems can have multiple patterns
@@ -194,3 +204,6 @@ Two Sum II
 
 Two Sum
 → Hashing
+
+Merge Intervals
+→ Intervals + Sorting
