@@ -1,7 +1,7 @@
 # DSA Patterns
 
 A practical index of the DSA techniques and problem-solving patterns
-covered in **CodeVault**.
+covered in **LeetCodeVault**.
 
 This file is organized by **problem-solving pattern**, not by the
 problem's physical folder.
@@ -186,29 +186,10 @@ Sort intervals and merge overlapping ranges while traversing them.
 
 ---
 
-# Pattern Notes
+## 16. Binary Search
 
-### Problems can have multiple patterns
+Use the sorted order of the input to repeatedly eliminate half of the search space.
 
-A problem does not necessarily belong to only one pattern.
-
-For example:
-
-```text
-Container With Most Water
-→ Two Pointers
-
-Product of Array Except Self
-→ Prefix / Suffix
-
-Two Sum II
-→ Two Pointers
-
-Two Sum
-→ Hashing
-
-Merge Intervals
-→ Intervals + Sorting
-
-Subarray Sum Equals K
-→ Prefix Sum + Hash Map
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+| 704 | Binary Search | Binary Search — Iterative | [LeetCode](https://leetcode.com/problems/binary-search/) | [Solution](./LeetCode/01-Arrays/704-Binary-Search.cpp) |

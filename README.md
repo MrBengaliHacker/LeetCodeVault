@@ -1,7 +1,7 @@
 # LeetCodeVault
 
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-34-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-35-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 A structured collection of my LeetCode solutions, built as a long-term journey from programming fundamentals to advanced Data Structures and Algorithms.
@@ -24,7 +24,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 
 ## 01 - Arrays
 
-📁 [View folder](./LeetCode/01-Arrays) — **29/30** 🚧 In Progress
+📁 [View folder](./LeetCode/01-Arrays) — **30/30** ✅ Complete
 
 | # | Problem | Difficulty | Technique |
 |---|---------|-----------|-----------|
@@ -57,6 +57,8 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 | 56 | [Merge Intervals](./LeetCode/01-Arrays/56-Merge-Intervals.cpp) | Medium | Intervals + Sorting |
 | 560 | [Subarray Sum Equals K](./LeetCode/01-Arrays/560-Subarray-Sum-Equals-K.cpp) | Medium | Prefix Sum + Hash Map |
 | 41 | [First Missing Positive](./LeetCode/01-Arrays/41-First-Missing-Positive.cpp) | Hard | In-Place Index Mapping / Cyclic Placement |
+| 704 | [Binary Search](./LeetCode/01-Arrays/704-Binary-Search.cpp) | Easy | Binary Search |
+
 ---
 
 ## Solution Format
@@ -82,6 +84,7 @@ Each solution includes:
 ## Roadmap
 
 ### Core Topics
+
 - Programming Basics
 - Arrays
 - Strings
@@ -92,22 +95,18 @@ Each solution includes:
 - Heaps & Priority Queues
 - Graphs
 
-### Algorithmic Patterns
-- Two Pointers
-- Sliding Window
-- Binary Search
-- Prefix Sum
-- Sorting
-- Greedy
-- Backtracking
-- Intervals
-- Bit Manipulation
-- Recursion
+### Advanced Topics
 
-### Advanced Algorithms
+- Backtracking
+- Greedy
 - Dynamic Programming
 - Advanced Graph Algorithms
 - Advanced Data Structures & Algorithms
+
+### Pattern Index
+
+See [PATTERNS.md](./PATTERNS.md) for the problem-solving patterns
+used across the repository.
 
 ---
 
