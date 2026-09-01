@@ -1,7 +1,7 @@
 # LeetCodeVault
 
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-35-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-36-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 A structured collection of my LeetCode solutions, built as a long-term journey from programming fundamentals to advanced Data Structures and Algorithms.
@@ -58,6 +58,16 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 | 560 | [Subarray Sum Equals K](./LeetCode/01-Arrays/560-Subarray-Sum-Equals-K.cpp) | Medium | Prefix Sum + Hash Map |
 | 41 | [First Missing Positive](./LeetCode/01-Arrays/41-First-Missing-Positive.cpp) | Hard | In-Place Index Mapping / Cyclic Placement |
 | 704 | [Binary Search](./LeetCode/01-Arrays/704-Binary-Search.cpp) | Easy | Binary Search |
+
+---
+
+## 02 - Strings
+
+📁 [View folder](./LeetCode/02-Strings) — **1/30** 🚧 In Progress
+
+| # | Problem | Difficulty | Technique |
+|---|---|---|---|
+| 709 | [To Lower Case](./LeetCode/02-Strings/709-To-Lower-Case.cpp) | Easy | Character Manipulation |
 
 ---
 

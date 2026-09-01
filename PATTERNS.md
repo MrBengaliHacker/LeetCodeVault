@@ -193,3 +193,13 @@ Use the sorted order of the input to repeatedly eliminate half of the search spa
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
 | 704 | Binary Search | Binary Search — Iterative | [LeetCode](https://leetcode.com/problems/binary-search/) | [Solution](./LeetCode/01-Arrays/704-Binary-Search.cpp) |
+
+---
+
+## 17. String Traversal & Character Manipulation
+
+Process each character directly while traversing a string.
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+| 709 | To Lower Case | Character Manipulation | [LeetCode](https://leetcode.com/problems/to-lower-case/) | [Solution](./LeetCode/02-Strings/709-To-Lower-Case.cpp) |
