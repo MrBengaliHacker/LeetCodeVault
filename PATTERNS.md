@@ -196,13 +196,46 @@ Use the sorted order of the input to repeatedly eliminate half of the search spa
 
 ---
 
-## 17. String Traversal & Character Manipulation
+## 17. String Traversal & Manipulation
 
-Process each character directly while traversing a string.
+Process characters directly using sequential traversal.
 
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
-| 709 | To Lower Case | Character Manipulation | [LeetCode](https://leetcode.com/problems/to-lower-case/) | [Solution](./LeetCode/02-Strings/709-To-Lower-Case.cpp) |
+
+| 709 | To Lower Case | Character Traversal | [LeetCode](https://leetcode.com/problems/to-lower-case/) | [Solution](./LeetCode/02-Strings/709-To-Lower-Case.cpp) |
+
 | 58 | Length of Last Word | Reverse Traversal | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | [Solution](./LeetCode/02-Strings/58-Length-of-Last-Word.cpp) |
-| 1768 | Merge Strings Alternately | String Traversal | [LeetCode](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](./LeetCode/02-Strings/1768-Merge-Strings-Alternately.cpp) |
-| 14 | Longest Common Prefix | String Traversal | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./LeetCode/02-Strings/14-Longest-Common-Prefix.cpp) |
+
+---
+
+## 18. String Construction
+
+Build a new string while processing one or more input strings.
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+
+| 1768 | Merge Strings Alternately | Two Pointers + String Construction | [LeetCode](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](./LeetCode/02-Strings/1768-Merge-Strings-Alternately.cpp) |
+
+---
+
+## 19. String Comparison
+
+Compare characters or prefixes across multiple strings.
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+
+| 14 | Longest Common Prefix | Character-by-Character Comparison | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./LeetCode/02-Strings/14-Longest-Common-Prefix.cpp) |
+
+---
+
+## 20. String Matching
+
+Find a pattern or substring inside another string.
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+
+| 28 | Find the Index of the First Occurrence in a String | Brute Force / KMP | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./LeetCode/02-Strings/28-Find-the-Index-of-the-First-Occurrence-in-a-String.cpp) |

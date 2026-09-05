@@ -1,7 +1,7 @@
 # LeetCodeVault
 
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-39-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-40-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 A structured collection of my LeetCode solutions, built as a long-term journey from programming fundamentals to advanced Data Structures and Algorithms.
@@ -63,7 +63,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 
 ## 02 - Strings
 
-📁 [View folder](./LeetCode/02-Strings) — **4/30** 🚧 In Progress
+📁 [View folder](./LeetCode/02-Strings) — **5/30** 🚧 In Progress
 
 | # | Problem | Difficulty | Technique |
 |---|---|---|---|
@@ -71,6 +71,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 | 58 | [Length of Last Word](./LeetCode/02-Strings/58-Length-of-Last-Word.cpp) | Easy | Reverse Traversal |
 | 1768 | [Merge Strings Alternately](./LeetCode/02-Strings/1768-Merge-Strings-Alternately.cpp) | Easy | String Traversal |
 | 14 | [Longest Common Prefix](./LeetCode/02-Strings/14-Longest-Common-Prefix.cpp) | Easy | String Traversal |
+| 28 | [Find the Index of the First Occurrence in a String](./LeetCode/02-Strings/28-Find-the-Index-of-the-First-Occurrence-in-a-String.cpp) | Easy | String Matching |
 
 ---
 
