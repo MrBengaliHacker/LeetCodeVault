@@ -37,8 +37,7 @@ Use hash-based data structures for fast lookup and duplicate detection.
 
 ## 3. Two Pointers
 
-Use two indices to reduce unnecessary comparisons and process an array
-efficiently.
+Use two indices to reduce unnecessary comparisons and process an array efficiently.
 
 ### Same-Direction / In-Place
 
@@ -94,8 +93,7 @@ Combine information calculated from the left and right sides of an array.
 
 ## 7. Kadane's Algorithm
 
-Maintain the best subarray ending at the current position to find the
-maximum-sum contiguous subarray.
+Maintain the best subarray ending at the current position to find the maximum-sum contiguous subarray.
 
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
@@ -137,8 +135,7 @@ Use the input array itself to store information and avoid extra data structures.
 
 ## 11. Boyer-Moore Voting
 
-Maintain a candidate and vote count to find a majority element in
-linear time and constant extra space.
+Maintain a candidate and vote count to find a majority element in linear time and constant extra space.
 
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
@@ -196,9 +193,9 @@ Use the sorted order of the input to repeatedly eliminate half of the search spa
 
 ---
 
-## 17. String Traversal & Manipulation
+## 17. String Traversal & Construction
 
-Process characters directly using sequential traversal.
+Process characters directly through sequential or reverse traversal, often building a new string as a result.
 
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
@@ -206,36 +203,26 @@ Process characters directly using sequential traversal.
 | 709 | To Lower Case | Character Traversal | [LeetCode](https://leetcode.com/problems/to-lower-case/) | [Solution](./LeetCode/02-Strings/709-To-Lower-Case.cpp) |
 
 | 58 | Length of Last Word | Reverse Traversal | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | [Solution](./LeetCode/02-Strings/58-Length-of-Last-Word.cpp) |
-
----
-
-## 18. String Construction
-
-Build a new string while processing one or more input strings.
-
-| # | Problem | Technique | LeetCode | Solution |
-|---|---|---|---|---|
-
 | 1768 | Merge Strings Alternately | Two Pointers + String Construction | [LeetCode](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](./LeetCode/02-Strings/1768-Merge-Strings-Alternately.cpp) |
 
 ---
 
-## 19. String Comparison
+## 18. String Comparison & Matching
 
-Compare characters or prefixes across multiple strings.
+Compare characters or prefixes across strings, or search for a pattern within another string.
 
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
 
 | 14 | Longest Common Prefix | Character-by-Character Comparison | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./LeetCode/02-Strings/14-Longest-Common-Prefix.cpp) |
+| 28 | Find the Index of the First Occurrence in a String | Brute Force / KMP | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./LeetCode/02-Strings/28-Find-the-Index-of-the-First-Occurrence-in-a-String.cpp) |
 
 ---
 
-## 20. String Matching
+## 19. Right-to-Left Traversal + Hash Map
 
-Find a pattern or substring inside another string.
+Use a hash map for fast lookups while traversing a string or array in a specific direction to apply comparison-based logic.
 
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
-
-| 28 | Find the Index of the First Occurrence in a String | Brute Force / KMP | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./LeetCode/02-Strings/28-Find-the-Index-of-the-First-Occurrence-in-a-String.cpp) |
+| 13 | Roman to Integer | Right-to-Left Traversal + Hash Map | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | [Solution](./LeetCode/02-Strings/13-Roman-to-Integer.cpp) |
