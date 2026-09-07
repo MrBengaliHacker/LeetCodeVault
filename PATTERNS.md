@@ -37,7 +37,7 @@ Use hash-based data structures for fast lookup and duplicate detection.
 
 ## 3. Two Pointers
 
-Use two indices to reduce unnecessary comparisons and process an array efficiently.
+Use two indices to reduce unnecessary comparisons and process arrays or strings efficiently.
 
 ### Same-Direction / In-Place
 
@@ -55,6 +55,7 @@ Use two indices to reduce unnecessary comparisons and process an array efficient
 | 11 | Container With Most Water | Two Pointers — Opposite Direction | [LeetCode](https://leetcode.com/problems/container-with-most-water/) | [Solution](./LeetCode/01-Arrays/11-Container-With-Most-Water.cpp) |
 | 42 | Trapping Rain Water | Two Pointers — Left/Right Maximum | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./LeetCode/01-Arrays/42-Trapping-Rain-Water.cpp) |
 | 15 | 3Sum | Sorting + Two Pointers | [LeetCode](https://leetcode.com/problems/3sum/) | [Solution](./LeetCode/01-Arrays/15-3Sum.cpp) |
+| 344 | Reverse String | Two Pointers — Opposite Direction | [LeetCode](https://leetcode.com/problems/reverse-string/) | [Solution](./LeetCode/02-Strings/344-Reverse-String.cpp) |
 
 ---
 
