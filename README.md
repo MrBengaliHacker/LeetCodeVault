@@ -1,7 +1,7 @@
 # LeetCodeVault
 
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-42-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-43-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 A structured collection of my LeetCode solutions, built as a long-term journey from programming fundamentals to advanced Data Structures and Algorithms.
@@ -63,7 +63,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 
 ## 02 - Strings
 
-📁 [View folder](./LeetCode/02-Strings) — **7/30** 🚧 In Progress
+📁 [View folder](./LeetCode/02-Strings) — **8/30** 🚧 In Progress
 
 | # | Problem | Difficulty | Technique |
 |---|---|---|---|
@@ -74,6 +74,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 | 28 | [Find the Index of the First Occurrence in a String](./LeetCode/02-Strings/28-Find-the-Index-of-the-First-Occurrence-in-a-String.cpp) | Easy | String Matching |
 | 13 | [Roman to Integer](./LeetCode/02-Strings/13-Roman-to-Integer.cpp) | Easy | Right-to-Left Traversal + Hash Map |
 | 344 | [Reverse String](./LeetCode/02-Strings/344-Reverse-String.cpp) | Easy | Two Pointers — Opposite Direction |
+| 541 | [Reverse String II](./LeetCode/02-Strings/541-Reverse-String-II.cpp) | Easy | Two Pointers — In-Place Reversal |
 
 ---
 
