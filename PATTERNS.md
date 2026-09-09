@@ -57,6 +57,7 @@ Use two indices to reduce unnecessary comparisons and process arrays or strings 
 | 42 | Trapping Rain Water | Two Pointers — Left/Right Maximum | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | [Solution](./LeetCode/01-Arrays/42-Trapping-Rain-Water.cpp) |
 | 15 | 3Sum | Sorting + Two Pointers | [LeetCode](https://leetcode.com/problems/3sum/) | [Solution](./LeetCode/01-Arrays/15-3Sum.cpp) |
 | 344 | Reverse String | Two Pointers — Opposite Direction | [LeetCode](https://leetcode.com/problems/reverse-string/) | [Solution](./LeetCode/02-Strings/344-Reverse-String.cpp) |
+| 125 | Valid Palindrome | Two Pointers — Opposite Direction | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | [Solution](./LeetCode/02-Strings/125-Valid-Palindrome.cpp) |
 
 ---
 
