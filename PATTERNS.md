@@ -47,6 +47,7 @@ Use two indices to reduce unnecessary comparisons and process arrays or strings 
 | 26 | Remove Duplicates from Sorted Array | Two Pointers — In-Place | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [Solution](./LeetCode/01-Arrays/26-Remove-Duplicates-from-Sorted-Array.cpp) |
 | 88 | Merge Sorted Array | Two Pointers — Reverse Traversal | [LeetCode](https://leetcode.com/problems/merge-sorted-array/) | [Solution](./LeetCode/01-Arrays/88-Merge-Sorted-Array.cpp) |
 | 541 | Reverse String II | Two Pointers — In-Place Reversal | [LeetCode](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./LeetCode/02-Strings/541-Reverse-String-II.cpp) |
+| 392 | Is Subsequence | Two Pointers — Same Direction | [LeetCode](https://leetcode.com/problems/is-subsequence/) | [Solution](./LeetCode/02-Strings/392-Is-Subsequence.cpp) |
 
 ### Opposite-Direction
 
