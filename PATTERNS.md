@@ -60,6 +60,7 @@ Use two indices to reduce unnecessary comparisons and process arrays or strings 
 | 344 | Reverse String | Two Pointers — Opposite Direction | [LeetCode](https://leetcode.com/problems/reverse-string/) | [Solution](./LeetCode/02-Strings/344-Reverse-String.cpp) |
 | 125 | Valid Palindrome | Two Pointers — Opposite Direction | [LeetCode](https://leetcode.com/problems/valid-palindrome/) | [Solution](./LeetCode/02-Strings/125-Valid-Palindrome.cpp) |
 | 345 | Reverse Vowels of a String | Two Pointers — Opposite Direction | [LeetCode](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [Solution](./LeetCode/02-Strings/345-Reverse-Vowels-of-a-String.cpp) |
+| 680 | Valid Palindrome II | Two Pointers — Opposite Direction | [LeetCode](https://leetcode.com/problems/valid-palindrome-ii/) | [Solution](./LeetCode/02-Strings/680-Valid-Palindrome-II.cpp) |
 
 ---
 
