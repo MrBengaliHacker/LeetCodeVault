@@ -232,3 +232,14 @@ Use a hash map for fast lookups while traversing a string or array in a specific
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
 | 13 | Roman to Integer | Right-to-Left Traversal + Hash Map | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | [Solution](./LeetCode/02-Strings/13-Roman-to-Integer.cpp) |
+
+---
+
+## 20. Frequency Counting
+
+Count the occurrences of elements or characters to compare frequencies or track repeated values.
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+
+| 242 | Valid Anagram | Character Frequency Counting | [LeetCode](https://leetcode.com/problems/valid-anagram/) | [Solution](./LeetCode/02-Strings/242-Valid-Anagram.cpp) |
