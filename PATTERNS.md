@@ -205,7 +205,6 @@ Process characters directly through sequential or reverse traversal, often build
 
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
-
 | 709 | To Lower Case | Character Traversal | [LeetCode](https://leetcode.com/problems/to-lower-case/) | [Solution](./LeetCode/02-Strings/709-To-Lower-Case.cpp) |
 
 | 58 | Length of Last Word | Reverse Traversal | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | [Solution](./LeetCode/02-Strings/58-Length-of-Last-Word.cpp) |
@@ -219,7 +218,6 @@ Compare characters or prefixes across strings, or search for a pattern within an
 
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
-
 | 14 | Longest Common Prefix | Character-by-Character Comparison | [LeetCode](https://leetcode.com/problems/longest-common-prefix/) | [Solution](./LeetCode/02-Strings/14-Longest-Common-Prefix.cpp) |
 | 28 | Find the Index of the First Occurrence in a String | Brute Force / KMP | [LeetCode](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | [Solution](./LeetCode/02-Strings/28-Find-the-Index-of-the-First-Occurrence-in-a-String.cpp) |
 
@@ -228,7 +226,6 @@ Compare characters or prefixes across strings, or search for a pattern within an
 ## 19. Right-to-Left Traversal + Hash Map
 
 Use a hash map for fast lookups while traversing a string or array in a specific direction to apply comparison-based logic.
-
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
 | 13 | Roman to Integer | Right-to-Left Traversal + Hash Map | [LeetCode](https://leetcode.com/problems/roman-to-integer/) | [Solution](./LeetCode/02-Strings/13-Roman-to-Integer.cpp) |
@@ -241,5 +238,5 @@ Count the occurrences of elements or characters to compare frequencies or track 
 
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
-
 | 242 | Valid Anagram | Character Frequency Counting | [LeetCode](https://leetcode.com/problems/valid-anagram/) | [Solution](./LeetCode/02-Strings/242-Valid-Anagram.cpp) |
+| 383 | Ransom Note | Character Frequency Counting | [LeetCode](https://leetcode.com/problems/ransom-note/) | [Solution](./LeetCode/02-Strings/383-Ransom-Note.cpp) |
