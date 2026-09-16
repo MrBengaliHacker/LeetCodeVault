@@ -241,3 +241,13 @@ Count the occurrences of elements or characters to compare frequencies or track 
 | 242 | Valid Anagram | Character Frequency Counting | [LeetCode](https://leetcode.com/problems/valid-anagram/) | [Solution](./LeetCode/02-Strings/242-Valid-Anagram.cpp) |
 | 383 | Ransom Note | Character Frequency Counting | [LeetCode](https://leetcode.com/problems/ransom-note/) | [Solution](./LeetCode/02-Strings/383-Ransom-Note.cpp) |
 | 387 | First Unique Character in a String | Character Frequency Counting | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./LeetCode/02-Strings/387-First-Unique-Character-in-a-String.cpp) |
+
+---
+
+## 21. Character Mapping / Bijection
+
+Map elements or characters between two sequences while ensuring the mapping remains one-to-one.
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+| 205 | Isomorphic Strings | Two-Way Character Mapping | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) | [Solution](./LeetCode/02-Strings/205-Isomorphic-Strings.cpp) |
