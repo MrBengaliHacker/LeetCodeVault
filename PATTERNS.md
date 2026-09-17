@@ -251,3 +251,4 @@ Map elements or characters between two sequences while ensuring the mapping rema
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
 | 205 | Isomorphic Strings | Two-Way Character Mapping | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) | [Solution](./LeetCode/02-Strings/205-Isomorphic-Strings.cpp) |
+| 290 | Word Pattern | Two-Way Character-to-Word Mapping | [LeetCode](https://leetcode.com/problems/word-pattern/) | [Solution](./LeetCode/02-Strings/290-Word-Pattern.cpp) |
