@@ -241,6 +241,7 @@ Count the occurrences of elements or characters to compare frequencies or track 
 | 242 | Valid Anagram | Character Frequency Counting | [LeetCode](https://leetcode.com/problems/valid-anagram/) | [Solution](./LeetCode/02-Strings/242-Valid-Anagram.cpp) |
 | 383 | Ransom Note | Character Frequency Counting | [LeetCode](https://leetcode.com/problems/ransom-note/) | [Solution](./LeetCode/02-Strings/383-Ransom-Note.cpp) |
 | 387 | First Unique Character in a String | Character Frequency Counting | [LeetCode](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Solution](./LeetCode/02-Strings/387-First-Unique-Character-in-a-String.cpp) |
+| 49 | Group Anagrams | Frequency Counting + Hashing | [LeetCode](https://leetcode.com/problems/group-anagrams/) | [Solution](./LeetCode/02-Strings/49-Group-Anagrams.cpp) |
 
 ---
 
