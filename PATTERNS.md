@@ -74,6 +74,12 @@ Maintain a moving window over a contiguous portion of an array or string.
 |---|---|---|---|---|
 | 643 | Maximum Average Subarray I | Fixed-Size Sliding Window | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](./LeetCode/01-Arrays/643-Maximum-Average-Subarray-I.cpp) |
 
+### Variable-Size Window
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+| 3 | Longest Substring Without Repeating Characters | Variable-Size Sliding Window + Last Occurrence Tracking | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./LeetCode/02-Strings/3-Longest-Substring-Without-Repeating-Characters.cpp) |
+
 ---
 
 ## 5. Prefix Sum
