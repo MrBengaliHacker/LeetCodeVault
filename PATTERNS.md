@@ -74,6 +74,7 @@ Maintain a moving window over a contiguous portion of an array or string.
 |---|---|---|---|---|
 | 643 | Maximum Average Subarray I | Fixed-Size Sliding Window | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](./LeetCode/01-Arrays/643-Maximum-Average-Subarray-I.cpp) |
 | 567 | Permutation in String | Fixed-Size Sliding Window + Frequency Counting | [LeetCode](https://leetcode.com/problems/permutation-in-string/) | [Solution](./LeetCode/02-Strings/567-Permutation-in-String.cpp) |
+| 438 | Find All Anagrams in a String | Fixed-Size Sliding Window + Frequency Counting | [LeetCode](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | [Solution](./LeetCode/02-Strings/438-Find-All-Anagrams-in-a-String.cpp) |
 
 ### Variable-Size Window
 
