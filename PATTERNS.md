@@ -81,6 +81,7 @@ Maintain a moving window over a contiguous portion of an array or string.
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
 | 3 | Longest Substring Without Repeating Characters | Variable-Size Sliding Window + Last Occurrence Tracking | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Solution](./LeetCode/02-Strings/3-Longest-Substring-Without-Repeating-Characters.cpp) |
+| 424 | Longest Repeating Character Replacement | Variable-Size Sliding Window + Frequency Counting | [LeetCode](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Solution](./LeetCode/02-Strings/424-Longest-Repeating-Character-Replacement.cpp) |
 
 ---
 

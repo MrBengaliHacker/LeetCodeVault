@@ -1,7 +1,7 @@
 # LeetCodeVault
 
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-56-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-57-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 A structured collection of my LeetCode solutions, built as a long-term journey from programming fundamentals to advanced Data Structures and Algorithms.
@@ -63,7 +63,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 
 ## 02 - Strings
 
-📁 [View folder](./LeetCode/02-Strings) — **21/30** 🚧 In Progress
+📁 [View folder](./LeetCode/02-Strings) — **22/30** 🚧 In Progress
 
 | # | Problem | Difficulty | Technique |
 |---|---|---|---|
@@ -88,7 +88,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 | 3 | [Longest Substring Without Repeating Characters](./LeetCode/02-Strings/3-Longest-Substring-Without-Repeating-Characters.cpp) | Medium | Sliding Window + Last Occurrence Tracking |
 | 567 | [Permutation in String](./LeetCode/02-Strings/567-Permutation-in-String.cpp) | Medium | Fixed-Size Sliding Window + Frequency Counting |
 | 438 | [Find All Anagrams in a String](./LeetCode/02-Strings/438-Find-All-Anagrams-in-a-String.cpp) | Medium | Fixed-Size Sliding Window + Frequency Counting |
-
+| 424 | [Longest Repeating Character Replacement](./LeetCode/02-Strings/424-Longest-Repeating-Character-Replacement.cpp) | Medium | Variable-Size Sliding Window + Frequency Counting |
 ---
 
 ## Solution Format
