@@ -215,7 +215,6 @@ Process characters directly through sequential or reverse traversal, often build
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
 | 709 | To Lower Case | Character Traversal | [LeetCode](https://leetcode.com/problems/to-lower-case/) | [Solution](./LeetCode/02-Strings/709-To-Lower-Case.cpp) |
-
 | 58 | Length of Last Word | Reverse Traversal | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | [Solution](./LeetCode/02-Strings/58-Length-of-Last-Word.cpp) |
 | 1768 | Merge Strings Alternately | Two Pointers + String Construction | [LeetCode](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](./LeetCode/02-Strings/1768-Merge-Strings-Alternately.cpp) |
 
@@ -262,3 +261,13 @@ Map elements or characters between two sequences while ensuring the mapping rema
 |---|---|---|---|---|
 | 205 | Isomorphic Strings | Two-Way Character Mapping | [LeetCode](https://leetcode.com/problems/isomorphic-strings/) | [Solution](./LeetCode/02-Strings/205-Isomorphic-Strings.cpp) |
 | 290 | Word Pattern | Two-Way Character-to-Word Mapping | [LeetCode](https://leetcode.com/problems/word-pattern/) | [Solution](./LeetCode/02-Strings/290-Word-Pattern.cpp) |
+
+---
+
+## 22. In-Place String Manipulation
+
+Modify a string directly using the input storage to reduce extra space.
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+| 151 | Reverse Words in a String | In-Place String Manipulation + Reversal | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](./LeetCode/02-Strings/151-Reverse-Words-in-a-String.cpp) |
