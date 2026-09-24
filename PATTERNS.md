@@ -145,6 +145,7 @@ Use the input array itself to store information and avoid extra data structures.
 |---|---|---|---|---|
 | 448 | Find All Numbers Disappeared in an Array | Index Marking | [LeetCode](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [Solution](./LeetCode/01-Arrays/448-Find-All-Numbers-Disappeared-in-an-Array.cpp) |
 | 41 | First Missing Positive | In-Place Index Mapping / Cyclic Placement | [LeetCode](https://leetcode.com/problems/first-missing-positive/) | [Solution](./LeetCode/01-Arrays/41-First-Missing-Positive.cpp) |
+| 443 | String Compression | Two Pointers + In-Place Array Manipulation | [LeetCode](https://leetcode.com/problems/string-compression/) | [Solution](./LeetCode/02-Strings/443-String-Compression.cpp) |
 
 ---
 
