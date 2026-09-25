@@ -272,3 +272,13 @@ Modify a string directly using the input storage to reduce extra space.
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
 | 151 | Reverse Words in a String | In-Place String Manipulation + Reversal | [LeetCode](https://leetcode.com/problems/reverse-words-in-a-string/) | [Solution](./LeetCode/02-Strings/151-Reverse-Words-in-a-String.cpp) |
+
+---
+
+## 23. Palindrome
+
+Identify and process palindromic sequences by checking characters from the center outward or from both ends.
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+| 5 | Longest Palindromic Substring | Expand Around Center | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./LeetCode/02-Strings/5-Longest-Palindromic-Substring.cpp) |
