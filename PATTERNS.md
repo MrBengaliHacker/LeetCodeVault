@@ -282,3 +282,4 @@ Identify and process palindromic sequences by checking characters from the cente
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
 | 5 | Longest Palindromic Substring | Expand Around Center | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./LeetCode/02-Strings/5-Longest-Palindromic-Substring.cpp) |
+| 647 | Palindromic Substrings | Expand Around Center | [LeetCode](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./LeetCode/02-Strings/647-Palindromic-Substrings.cpp) |

@@ -1,7 +1,7 @@
 # LeetCodeVault
 
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-60-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-61-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 A structured collection of my LeetCode solutions, built as a long-term journey from programming fundamentals to advanced Data Structures and Algorithms.
@@ -63,7 +63,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 
 ## 02 - Strings
 
-📁 [View folder](./LeetCode/02-Strings) — **25/30** 🚧 In Progress
+📁 [View folder](./LeetCode/02-Strings) — **26/30** 🚧 In Progress
 
 | # | Problem | Difficulty | Technique |
 |---|---|---|---|
@@ -92,6 +92,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 | 151 | [Reverse Words in a String](./LeetCode/02-Strings/151-Reverse-Words-in-a-String.cpp) | Medium | In-Place String Manipulation + Reversal |
 | 443 | [String Compression](./LeetCode/02-Strings/443-String-Compression.cpp) | Medium | Two Pointers + In-Place Array Manipulation |
 | 5 | [Longest Palindromic Substring](./LeetCode/02-Strings/5-Longest-Palindromic-Substring.cpp) | Medium | Expand Around Center |
+| 647 | [Palindromic Substrings](./LeetCode/02-Strings/647-Palindromic-Substrings.cpp) | Medium | Expand Around Center |
 
 ---
 
