@@ -218,6 +218,7 @@ Process characters directly through sequential or reverse traversal, often build
 | 709 | To Lower Case | Character Traversal | [LeetCode](https://leetcode.com/problems/to-lower-case/) | [Solution](./LeetCode/02-Strings/709-To-Lower-Case.cpp) |
 | 58 | Length of Last Word | Reverse Traversal | [LeetCode](https://leetcode.com/problems/length-of-last-word/) | [Solution](./LeetCode/02-Strings/58-Length-of-Last-Word.cpp) |
 | 1768 | Merge Strings Alternately | Two Pointers + String Construction | [LeetCode](https://leetcode.com/problems/merge-strings-alternately/) | [Solution](./LeetCode/02-Strings/1768-Merge-Strings-Alternately.cpp) |
+| 6 | Zigzag Conversion | Cycle Pattern / Mathematical Traversal | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) | [Solution](./LeetCode/02-Strings/6-Zigzag-Conversion.cpp) |
 
 ---
 
