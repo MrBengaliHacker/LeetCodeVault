@@ -123,6 +123,7 @@ Make the best decision possible at each step while scanning the input once.
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
 | 121 | Best Time to Buy and Sell Stock | Minimum Price Tracking | [LeetCode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](./LeetCode/01-Arrays/121-Best-Time-to-Buy-and-Sell-Stock.cpp) |
+| 12 | Integer to Roman | Greedy / One-Pass | [LeetCode](https://leetcode.com/problems/integer-to-roman/) | [Solution](./LeetCode/02-Strings/12-Integer-to-Roman.cpp) |
 
 ---
 
