@@ -285,3 +285,13 @@ Identify and process palindromic sequences by checking characters from the cente
 |---|---|---|---|---|
 | 5 | Longest Palindromic Substring | Expand Around Center | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | [Solution](./LeetCode/02-Strings/5-Longest-Palindromic-Substring.cpp) |
 | 647 | Palindromic Substrings | Expand Around Center | [LeetCode](https://leetcode.com/problems/palindromic-substrings/) | [Solution](./LeetCode/02-Strings/647-Palindromic-Substrings.cpp) |
+
+---
+
+## 24. String Arithmetic / Simulation
+
+Simulate arithmetic operations directly on string representations of numbers without converting them into built-in integer types.
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+| 43 | Multiply Strings | Array Simulation / Grade-School Multiplication | [LeetCode](https://leetcode.com/problems/multiply-strings/) | [Solution](./LeetCode/02-Strings/43-Multiply-Strings.cpp) |

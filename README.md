@@ -1,7 +1,7 @@
 # LeetCodeVault
 
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-63-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-64-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 A structured collection of my LeetCode solutions, built as a long-term journey from programming fundamentals to advanced Data Structures and Algorithms.
@@ -63,7 +63,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 
 ## 02 - Strings
 
-📁 [View folder](./LeetCode/02-Strings) — **28/30** 🚧 In Progress
+📁 [View folder](./LeetCode/02-Strings) — **29/30** 🚧 In Progress
 
 | # | Problem | Difficulty | Technique |
 |---|---|---|---|
@@ -95,6 +95,7 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 | 647 | [Palindromic Substrings](./LeetCode/02-Strings/647-Palindromic-Substrings.cpp) | Medium | Expand Around Center |
 | 6 | [Zigzag Conversion](./LeetCode/02-Strings/6-Zigzag-Conversion.cpp) | Medium | Cycle Pattern / Mathematical Traversal |
 | 12 | [Integer to Roman](./LeetCode/02-Strings/12-Integer-to-Roman.cpp) | Medium | Greedy / One-Pass |
+| 43 | [Multiply Strings](./LeetCode/02-Strings/43-Multiply-Strings.cpp) | Medium | Array Simulation / Grade-School Multiplication |
 
 ---
 
