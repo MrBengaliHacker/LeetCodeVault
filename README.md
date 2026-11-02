@@ -1,7 +1,7 @@
 # LeetCodeVault
 
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-65-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-66-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 A structured collection of my LeetCode solutions, built as a long-term journey from programming fundamentals to advanced Data Structures and Algorithms.
@@ -97,6 +97,16 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 | 12 | [Integer to Roman](./LeetCode/02-Strings/12-Integer-to-Roman.cpp) | Medium | Greedy / One-Pass |
 | 43 | [Multiply Strings](./LeetCode/02-Strings/43-Multiply-Strings.cpp) | Medium | Array Simulation / Grade-School Multiplication |
 | 76 | [Minimum Window Substring](./LeetCode/02-Strings/76-Minimum-Window-Substring.cpp) | Hard | Variable-Size Sliding Window + Frequency Counting |
+
+---
+
+## 03 - Linked Lists
+
+📁 [View folder](./LeetCode/03-Linked-Lists) — **1/20** 🚧 In Progress
+
+| # | Problem | Difficulty | Technique |
+|---|---|---|---|
+| 206 | [Reverse Linked List](./LeetCode/03-Linked-Lists/206-Reverse-Linked-List.cpp) | Easy | Iterative Linked List Reversal |
 
 ---
 

@@ -296,3 +296,13 @@ Simulate arithmetic operations directly on string representations of numbers wit
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
 | 43 | Multiply Strings | Array Simulation / Grade-School Multiplication | [LeetCode](https://leetcode.com/problems/multiply-strings/) | [Solution](./LeetCode/02-Strings/43-Multiply-Strings.cpp) |
+
+---
+
+## 25. Linked List Reversal
+
+Reverse linked-list connections using iterative or recursive pointer manipulation.
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+| 206 | Reverse Linked List | Iterative + Recursive Reversal | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./LeetCode/03-Linked-Lists/206-Reverse-Linked-List.cpp) |
