@@ -16,6 +16,7 @@ to study, recognize, and revise recurring algorithmic patterns.
 - [1. Two Pointers](#1-two-pointers)
   - [Opposite-Direction](#opposite-direction)
   - [Same-Direction / In-Place](#same-direction--in-place)
+  - [Fast & Slow Pointers](#fast--slow-pointers)
   - [Dutch National Flag](#dutch-national-flag)
 - [2. Sliding Window](#2-sliding-window)
   - [Fixed-Size Window](#fixed-size-window)
@@ -66,6 +67,14 @@ Use two indices to reduce unnecessary comparisons and process arrays or strings 
 | 541 | Reverse String II | Two Pointers — In-Place Reversal | [LeetCode](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./LeetCode/02-Strings/541-Reverse-String-II.cpp) |
 | 392 | Is Subsequence | Two Pointers — Same Direction | [LeetCode](https://leetcode.com/problems/is-subsequence/) | [Solution](./LeetCode/02-Strings/392-Is-Subsequence.cpp) |
 | 443 | String Compression | Two Pointers + In-Place Array Manipulation | [LeetCode](https://leetcode.com/problems/string-compression/) | [Solution](./LeetCode/02-Strings/443-String-Compression.cpp) |
+
+### Fast & Slow Pointers
+
+Use two pointers moving at different speeds to find middle nodes, detect cycles, or locate specific positions in a linked list.
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+| 876 | Middle of the Linked List | Fast & Slow Pointers | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./LeetCode/03-Linked-Lists/876-Middle-of-the-Linked-List.cpp) |
 
 ### Dutch National Flag
 
