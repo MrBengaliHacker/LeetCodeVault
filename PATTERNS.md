@@ -67,6 +67,7 @@ Use two indices to reduce unnecessary comparisons and process arrays or strings 
 | 541 | Reverse String II | Two Pointers — In-Place Reversal | [LeetCode](https://leetcode.com/problems/reverse-string-ii/) | [Solution](./LeetCode/02-Strings/541-Reverse-String-II.cpp) |
 | 392 | Is Subsequence | Two Pointers — Same Direction | [LeetCode](https://leetcode.com/problems/is-subsequence/) | [Solution](./LeetCode/02-Strings/392-Is-Subsequence.cpp) |
 | 443 | String Compression | Two Pointers + In-Place Array Manipulation | [LeetCode](https://leetcode.com/problems/string-compression/) | [Solution](./LeetCode/02-Strings/443-String-Compression.cpp) |
+| 21 | Merge Two Sorted Lists | Recursive Merging / Two Pointers + Dummy Node | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./LeetCode/03-Linked-Lists/21-Merge-Two-Sorted-Lists.cpp) |
 
 ### Fast & Slow Pointers
 
