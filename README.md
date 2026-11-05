@@ -1,7 +1,7 @@
 # LeetCodeVault
 
 ![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-68-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems-69-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
 
 A structured collection of my LeetCode solutions, built as a long-term journey from programming fundamentals to advanced Data Structures and Algorithms.
@@ -102,13 +102,14 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 
 ## 03 - Linked Lists
 
-📁 [View folder](./LeetCode/03-Linked-Lists) — **3/20** 🚧 In Progress
+📁 [View folder](./LeetCode/03-Linked-Lists) — **4/20** 🚧 In Progress
 
 | # | Problem | Difficulty | Technique |
 |---|---|---|---|
 | 206 | [Reverse Linked List](./LeetCode/03-Linked-Lists/206-Reverse-Linked-List.cpp) | Easy | Iterative Linked List Reversal |
 | 876 | [Middle of the Linked List](./LeetCode/03-Linked-Lists/876-Middle-of-the-Linked-List.cpp) | Easy | Two Pointers — Fast & Slow |
 | 21 | [Merge Two Sorted Lists](./LeetCode/03-Linked-Lists/21-Merge-Two-Sorted-Lists.cpp) | Easy | Recursive Merging / Two Pointers + Dummy Node |
+| 203 | [Remove Linked List Elements](./LeetCode/03-Linked-Lists/203-Remove-Linked-List-Elements.cpp) | Easy | Dummy Node + In-Place Removal |
 
 ---
 
