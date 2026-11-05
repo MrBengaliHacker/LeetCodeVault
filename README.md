@@ -1,18 +1,50 @@
 # LeetCodeVault
 
-![Language](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems-69-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge&logo=checkmarx&logoColor=white)
+<div align="center">
 
-A structured collection of my LeetCode solutions, built as a long-term journey from programming fundamentals to advanced Data Structures and Algorithms.
+![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems%20Solved-69-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Active%20Prep-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white)
+![Pattern Index](https://img.shields.io/badge/Index-PATTERNS.md-8A2BE2?style=for-the-badge&logo=markdown&logoColor=white)
+
+A structured collection of LeetCode solutions in modern C++, architected for efficient technical interview revision.
+
+[Explore Patterns](./PATTERNS.md) • [Topic Index](#topic-index) • [Solution Template](#solution-file-standard) • [Roadmap](#curriculum-roadmap)
+
+</div>
 
 ---
 
-## 00 - Programming Basics
+## Repository Overview
 
-📁 [View folder](./LeetCode/00-Programming-Basics) — **5/5** ✅ Complete
+`LeetCodeVault` documents clean, readable, and space-conscious C++ implementations across all major DSA topics. Every solution follows consistent repository conventions:
 
-| # | Problem | Difficulty | Technique |
+* **Algorithmic Rigor:** Prioritizes optimal time/space solutions, while documenting intuitive or alternative techniques (e.g., Two-Pass, Sorting, or Recursive counterparts) for follow-up discussions.
+* **Modern C++ Standards:** Written in modern C++ with idiomatic practices—using `nullptr`, RAII/stack allocations to prevent memory leaks, explicit resource cleanup where heap memory is used, and STL primitives.
+* **Structured Documentation:** Every file contains complete problem descriptions, examples, boundary conditions, conceptual intuition, step-by-step algorithms, and exact complexity breakdowns.
+* **Dual Indexing:** Navigate problems sequentially by data structure in this file, or by algorithmic strategy in **[`PATTERNS.md`](./PATTERNS.md)**.
+
+---
+
+## Progress Dashboard
+
+| Category | Folder | Status | Solved | Target |
+|:---|:---|:---:|:---:|:---:|
+| **00. Basics** | [`00-Programming-Basics`](./LeetCode/00-Programming-Basics) | Completed | 5 | 5 |
+| **01. Arrays** | [`01-Arrays`](./LeetCode/01-Arrays) | Completed | 30 | 30 |
+| **02. Strings** | [`02-Strings`](./LeetCode/02-Strings) | Completed | 30 | 30 |
+| **03. Linked Lists** | [`03-Linked-Lists`](./LeetCode/03-Linked-Lists) | In Progress | 4 | 23 |
+| **Total** | — | **Active** | **69** | **85+** |
+
+---
+
+## Topic Index
+
+### 00 - Programming Basics
+
+📁 **Directory:** [`./LeetCode/00-Programming-Basics`](./LeetCode/00-Programming-Basics) • **5/5** ✅ Complete
+
+| # | Problem | Difficulty | Primary Technique |
 |---|---------|-----------|-----------|
 | 2235 | [Add Two Integers](./LeetCode/00-Programming-Basics/2235-Add-Two-Integers.cpp) | Easy | Basic Arithmetic |
 | 412 | [Fizz Buzz](./LeetCode/00-Programming-Basics/412-Fizz-Buzz.cpp) | Easy | Conditionals |
@@ -22,11 +54,11 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 
 ---
 
-## 01 - Arrays
+### 01 - Arrays
 
-📁 [View folder](./LeetCode/01-Arrays) — **30/30** ✅ Complete
+📁 **Directory:** [`./LeetCode/01-Arrays`](./LeetCode/01-Arrays) • **30/30** ✅ Complete
 
-| # | Problem | Difficulty | Technique |
+| # | Problem | Difficulty | Primary Technique |
 |---|---------|-----------|-----------|
 | 1480 | [Running Sum of 1d Array](./LeetCode/01-Arrays/1480-Running-Sum-of-1d-Array.cpp) | Easy | Running Sum |
 | 1929 | [Concatenation of Array](./LeetCode/01-Arrays/1929-Concatenation-of-Array.cpp) | Easy | Array Construction |
@@ -61,11 +93,11 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 
 ---
 
-## 02 - Strings
+### 02 - Strings
 
-📁 [View folder](./LeetCode/02-Strings) — **30/30** ✅ Complete
+📁 **Directory:** [`./LeetCode/02-Strings`](./LeetCode/02-Strings) — **30/30** ✅ Complete
 
-| # | Problem | Difficulty | Technique |
+| # | Problem | Difficulty | Primary Technique |
 |---|---|---|---|
 | 709 | [To Lower Case](./LeetCode/02-Strings/709-To-Lower-Case.cpp) | Easy | Character Manipulation |
 | 58 | [Length of Last Word](./LeetCode/02-Strings/58-Length-of-Last-Word.cpp) | Easy | Reverse Traversal |
@@ -100,11 +132,11 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 
 ---
 
-## 03 - Linked Lists
+### 03 - Linked Lists
 
-📁 [View folder](./LeetCode/03-Linked-Lists) — **4/20** 🚧 In Progress
+📁 **Directory:** [`./LeetCode/03-Linked-Lists`](./LeetCode/03-Linked-Lists) — **4/23** 🚧 In Progress
 
-| # | Problem | Difficulty | Technique |
+| # | Problem | Difficulty | Primary Technique |
 |---|---|---|---|
 | 206 | [Reverse Linked List](./LeetCode/03-Linked-Lists/206-Reverse-Linked-List.cpp) | Easy | Iterative Linked List Reversal |
 | 876 | [Middle of the Linked List](./LeetCode/03-Linked-Lists/876-Middle-of-the-Linked-List.cpp) | Easy | Two Pointers — Fast & Slow |
@@ -113,52 +145,83 @@ A structured collection of my LeetCode solutions, built as a long-term journey f
 
 ---
 
-## Solution Format
+## Solution File Standard
 
-Each solution includes:
+To maintain high code quality and consistency across all topics (Arrays, Strings, Trees, Graphs, DP, Linked Lists), every solution file adheres to this blueprint:
 
-- Problem statement
-- Examples
-- Technique / DSA pattern
-- Key idea
-- Approach
-- Time and space complexity
-- C++ solution
+```cpp
+/**
+ * [Number]. [Problem Title]
+ * Difficulty: [Easy | Medium | Hard]
+ * Link: [https://leetcode.com/problems/](https://leetcode.com/problems/)[problem-slug]/
+ *
+ * Problem:
+ * [Formal problem statement]
+ *
+ * Examples:
+ * [Input / Output / Explanation test cases]
+ *
+ * Constraints:
+ * [Data ranges and input boundaries]
+ *
+ * ============================================================
+ * Approach 1: [Primary / Optimal Technique Name]
+ * ============================================================
+ *
+ * Technique:
+ * [Pattern / Sub-pattern classification matching PATTERNS.md]
+ *
+ * Key Idea:
+ * [Core invariant, mathematical property, or algorithmic observation]
+ *
+ * Steps:
+ * 1. [Ordered execution flow]
+ * 2. [...]
+ * 3. [...]
+ *
+ * Complexity:
+ * - Time:  O(...) — [Justification with pass counts or tree depth]
+ * - Space: O(...) — [Justification covering auxiliary structures/stack]
+ *
+ * ============================================================
+ * Approach 2: [Alternative / Follow-up Technique (if applicable)]
+ * ============================================================
+ * [Same structure: Technique, Key Idea, Steps, Complexity]
+ */
+
+// Necessary headers or custom struct definitions (ListNode, TreeNode, etc.)
+
+class Solution {
+public:
+    // Primary optimal solution
+    // Alternative method (if included)
+};
+```
 
 ---
 
-## Language
+## Curriculum Roadmap
+```
+Phase 1: Linear Data Structures (Current)
+├── 00 - Programming Basics     [5/5]   ✅ Complete
+├── 01 - Arrays                 [30/30] ✅ Complete
+├── 02 - Strings                [30/30] ✅ Complete
+├── 03 - Linked Lists           [4/23]  🚧 In Progress
+├── 04 - Stacks & Monotonic Stacks
+└── 05 - Queues & Deques
 
-- C++
+Phase 2: Trees & Graph Traversals
+├── 06 - Binary Trees & BSTs
+├── 07 - Binary Search Trees (Advanced)
+├── 08 - Heaps & Priority Queues
+└── 09 - Graph Theory (BFS, DFS, Topo Sort)
 
----
-
-## Roadmap
-
-### Core Topics
-
-- Programming Basics
-- Arrays
-- Strings
-- Hashing
-- Linked Lists
-- Stacks & Queues
-- Trees
-- Heaps & Priority Queues
-- Graphs
-
-### Advanced Topics
-
-- Backtracking
-- Greedy
-- Dynamic Programming
-- Advanced Graph Algorithms
-- Advanced Data Structures & Algorithms
-
-### Pattern Index
-
-See [PATTERNS.md](./PATTERNS.md) for the problem-solving patterns
-used across the repository.
+Phase 3: Advanced Optimization & Algorithms
+├── 10 - Backtracking
+├── 11 - Greedy Strategies
+├── 12 - Dynamic Programming (1D, 2D, Knapsack, Intervals)
+└── 13 - Advanced Graphs (Dijkstra, Bellman-Ford, DSU)
+```
 
 ---
 
@@ -170,4 +233,4 @@ used across the repository.
 
 ---
 
-⭐ If you found this repository useful, consider giving it a star.
+⭐ If this repository assists your technical interview preparation, consider starring the repo.
