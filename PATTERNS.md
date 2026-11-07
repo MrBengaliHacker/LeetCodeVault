@@ -78,6 +78,7 @@ Use two pointers moving at different speeds to find middle nodes, detect cycles,
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
 | 876 | Middle of the Linked List | Fast & Slow Pointers | [LeetCode](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](./LeetCode/03-Linked-Lists/876-Middle-of-the-Linked-List.cpp) |
+| 141 | Linked List Cycle | Fast & Slow Pointers | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./LeetCode/03-Linked-Lists/141-Linked-List-Cycle.cpp) |
 
 ### Dutch National Flag
 

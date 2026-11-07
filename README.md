@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-70-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems%20Solved-71-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active%20Prep-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Pattern Index](https://img.shields.io/badge/Index-PATTERNS.md-8A2BE2?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -134,7 +134,7 @@ A structured collection of LeetCode solutions in modern C++, architected for eff
 
 ### 03 - Linked Lists
 
-📁 **Directory:** [`./LeetCode/03-Linked-Lists`](./LeetCode/03-Linked-Lists) — **5/23** 🚧 In Progress
+📁 **Directory:** [`./LeetCode/03-Linked-Lists`](./LeetCode/03-Linked-Lists) — **6/23** 🚧 In Progress
 
 | # | Problem | Difficulty | Primary Technique |
 |---|---|---|---|
@@ -143,6 +143,7 @@ A structured collection of LeetCode solutions in modern C++, architected for eff
 | 21 | [Merge Two Sorted Lists](./LeetCode/03-Linked-Lists/21-Merge-Two-Sorted-Lists.cpp) | Easy | Recursive Merging / Two Pointers + Dummy Node |
 | 203 | [Remove Linked List Elements](./LeetCode/03-Linked-Lists/203-Remove-Linked-List-Elements.cpp) | Easy | Dummy Node + In-Place Removal |
 | 82 | [Remove Duplicates from Sorted List II](./LeetCode/03-Linked-Lists/82-Remove-Duplicates-from-Sorted-List-II.cpp) | Medium | Dummy Node + Two Pointers |
+| 141 | [Linked List Cycle](./LeetCode/03-Linked-Lists/141-Linked-List-Cycle.cpp) | Easy | Fast & Slow Pointers |
 
 ---
 
