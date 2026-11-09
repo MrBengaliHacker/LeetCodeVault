@@ -70,6 +70,7 @@ Use two indices to reduce unnecessary comparisons and process arrays or strings 
 | 21 | Merge Two Sorted Lists | Recursive Merging / Two Pointers + Dummy Node | [LeetCode](https://leetcode.com/problems/merge-two-sorted-lists/) | [Solution](./LeetCode/03-Linked-Lists/21-Merge-Two-Sorted-Lists.cpp) |
 | 203 | Remove Linked List Elements | Dummy Node + In-Place Removal | [LeetCode](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution](./LeetCode/03-Linked-Lists/203-Remove-Linked-List-Elements.cpp) |
 | 82 | Remove Duplicates from Sorted List II | Dummy Node + Two Pointers | [LeetCode](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Solution](./LeetCode/03-Linked-Lists/82-Remove-Duplicates-from-Sorted-List-II.cpp) |
+| 160 | Intersection of Two Linked Lists | Two Pointers — Path Length Equalization | [LeetCode](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [Solution](./LeetCode/03-Linked-Lists/160-Intersection-of-Two-Linked-Lists.cpp) |
 
 ### Fast & Slow Pointers
 
