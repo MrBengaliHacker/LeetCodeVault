@@ -17,6 +17,7 @@ to study, recognize, and revise recurring algorithmic patterns.
   - [Opposite-Direction](#opposite-direction)
   - [Same-Direction / In-Place](#same-direction--in-place)
   - [Fast & Slow Pointers](#fast--slow-pointers)
+  - [Sublist Partitioning & Reconnection](#sublist-partitioning--reconnection)
   - [Dutch National Flag](#dutch-national-flag)
 - [2. Sliding Window](#2-sliding-window)
   - [Fixed-Size Window](#fixed-size-window)
@@ -82,6 +83,14 @@ Use two pointers moving at different speeds to find middle nodes, detect cycles,
 | 141 | Linked List Cycle | Fast & Slow Pointers | [LeetCode](https://leetcode.com/problems/linked-list-cycle/) | [Solution](./LeetCode/03-Linked-Lists/141-Linked-List-Cycle.cpp) |
 | 142 | Linked List Cycle II | Fast & Slow Pointers | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](./LeetCode/03-Linked-Lists/142-Linked-List-Cycle-II.cpp) |
 | 19 | Remove Nth Node From End of List | Two Pointers — Fast & Slow (Fixed Gap) | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./LeetCode/03-Linked-Lists/19-Remove-Nth-Node-From-End-of-List.cpp) |
+
+### Sublist Partitioning & Reconnection
+
+Deconstruct a single linked list into multiple independent sub-chains based on a property (e.g., odd/even indices or value thresholds) and stitch them back together in a specified order.
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+| 328 | Odd Even Linked List | Two Pointers — Odd & Even (In-Place Reordering) | [LeetCode](https://leetcode.com/problems/odd-even-linked-list/) | [Solution](./LeetCode/03-Linked-Lists/328-Odd-Even-Linked-List.cpp) |
 
 ### Dutch National Flag
 
