@@ -84,6 +84,7 @@ Use two pointers moving at different speeds to find middle nodes, detect cycles,
 | 142 | Linked List Cycle II | Fast & Slow Pointers | [LeetCode](https://leetcode.com/problems/linked-list-cycle-ii/) | [Solution](./LeetCode/03-Linked-Lists/142-Linked-List-Cycle-II.cpp) |
 | 19 | Remove Nth Node From End of List | Two Pointers — Fast & Slow (Fixed Gap) | [LeetCode](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [Solution](./LeetCode/03-Linked-Lists/19-Remove-Nth-Node-From-End-of-List.cpp) |
 | 234 | Palindrome Linked List | Fast & Slow Pointers + In-Place Reversal | [LeetCode](https://leetcode.com/problems/palindrome-linked-list/) | [Solution](./LeetCode/03-Linked-Lists/234-Palindrome-Linked-List.cpp) |
+| 143 | Reorder List | Fast & Slow Pointers + In-Place Reversal + List Merging | [LeetCode](https://leetcode.com/problems/reorder-list/) | [Solution](./LeetCode/03-Linked-Lists/143-Reorder-List.cpp) |
 
 ### Sublist Partitioning & Reconnection
 
