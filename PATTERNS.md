@@ -29,7 +29,7 @@ to study, recognize, and revise recurring algorithmic patterns.
 - [4. Prefix Sum & Prefix / Suffix](#4-prefix-sum--prefix--suffix)
 - [5. In-Place](#5-in-place)
   - [In-Place Array Techniques, Reversal & Permutations](#in-place-array-techniques-reversal--permutations)
-  - [In-Place String Manipulation](#in-place-string-manipulation)(#5-in-place-array-techniques-reversal--permutations)
+  - [In-Place String Manipulation](#in-place-string-manipulation)
 - [6. Kadane's Algorithm & Running State](#6-kadanes-algorithm--running-state)
 - [7. Binary Search](#7-binary-search)
 - [8. Bit Manipulation & Basic Operations](#8-bit-manipulation--basic-operations)
@@ -38,6 +38,7 @@ to study, recognize, and revise recurring algorithmic patterns.
 - [11. Palindrome (Expand Around Center)](#11-palindrome-expand-around-center)
 - [12. String Traversal, Matching & Simulation](#12-string-traversal-matching--simulation)
 - [13. Array Traversal & Construction](#13-array-traversal--construction)
+- [14. Linked List Manipulation & Rewiring](#14-linked-list-manipulation--rewiring)
 
 ---
 
@@ -288,3 +289,13 @@ Basic traversal, indexing, construction, and direct array operations.
 | 1470 | Shuffle the Array | Index Mapping | [LeetCode](https://leetcode.com/problems/shuffle-the-array/) | [Solution](./LeetCode/01-Arrays/1470-Shuffle-the-Array.cpp) |
 | 1431 | Kids With the Greatest Number of Candies | Maximum + Traversal | [LeetCode](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [Solution](./LeetCode/01-Arrays/1431-Kids-With-the-Greatest-Number-of-Candies.cpp) |
 | 1672 | Richest Customer Wealth | 2D Array Traversal | [LeetCode](https://leetcode.com/problems/richest-customer-wealth/) | [Solution](./LeetCode/01-Arrays/1672-Richest-Customer-Wealth.cpp) |
+
+---
+
+## 14. Linked List Manipulation & Rewiring
+
+Structural pointer manipulation, circular linking, node swapping, and multi-list construction.
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+| 61 | Rotate List | Circular Linked List + Pointer Manipulation | [LeetCode](https://leetcode.com/problems/rotate-list/) | [Solution](./LeetCode/03-Linked-Lists/61-Rotate-List.cpp) |
