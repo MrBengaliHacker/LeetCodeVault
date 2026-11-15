@@ -246,6 +246,7 @@ Reverse linked-list connections using iterative or recursive pointer manipulatio
 | # | Problem | Technique | LeetCode | Solution |
 |---|---|---|---|---|
 | 206 | Reverse Linked List | Iterative + Recursive Reversal | [LeetCode](https://leetcode.com/problems/reverse-linked-list/) | [Solution](./LeetCode/03-Linked-Lists/206-Reverse-Linked-List.cpp) |
+| 92 | Reverse Linked List II | Iterative Sublist Reversal — Head Insertion | [LeetCode](https://leetcode.com/problems/reverse-linked-list-ii/) | [Solution](./LeetCode/03-Linked-Lists/92-Reverse-Linked-List-II.cpp) |
 
 ---
 
