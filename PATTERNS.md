@@ -301,5 +301,6 @@ Structural pointer manipulation, circular linking, node swapping, and multi-list
 |---|---|---|---|---|
 | 61 | Rotate List | Circular Linked List + Pointer Manipulation | [LeetCode](https://leetcode.com/problems/rotate-list/) | [Solution](./LeetCode/03-Linked-Lists/61-Rotate-List.cpp) |
 | 24 | Swap Nodes in Pairs | Three Pointers — Pairwise Swapping + Pointer Reconnection | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./LeetCode/03-Linked-Lists/24-Swap-Nodes-in-Pairs.cpp) |
+| 2 | Add Two Numbers | Dummy Node + Two-List Traversal + Carry Propagation | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | [Solution](./LeetCode/03-Linked-Lists/2-Add-Two-Numbers.cpp) |
 
 ---

@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-80-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems%20Solved-81-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active%20Prep-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Pattern Index](https://img.shields.io/badge/Index-PATTERNS.md-8A2BE2?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -134,7 +134,7 @@ A structured collection of LeetCode solutions in modern C++, architected for eff
 
 ### 03 - Linked Lists
 
-📁 **Directory:** [`./LeetCode/03-Linked-Lists`](./LeetCode/03-Linked-Lists) — **15/23** 🚧 In Progress
+📁 **Directory:** [`./LeetCode/03-Linked-Lists`](./LeetCode/03-Linked-Lists) — **16/23** 🚧 In Progress
 
 | # | Problem | Difficulty | Primary Technique |
 |---|---|---|---|
@@ -153,6 +153,7 @@ A structured collection of LeetCode solutions in modern C++, architected for eff
 | 61 | [Rotate List](./LeetCode/03-Linked-Lists/61-Rotate-List.cpp) | Medium | Circular Linked List + Pointer Manipulation |
 | 24 | [Swap Nodes in Pairs](./LeetCode/03-Linked-Lists/24-Swap-Nodes-in-Pairs.cpp) | Medium | Three Pointers — Pairwise Swapping + Pointer Reconnection |
 | 92 | [Reverse Linked List II](./LeetCode/03-Linked-Lists/92-Reverse-Linked-List-II.cpp) | Medium | In-Place Sublist Reversal — Head Insertion |
+| 2 | [Add Two Numbers](./LeetCode/03-Linked-Lists/2-Add-Two-Numbers.cpp) | Medium | Dummy Node + Two-List Traversal + Carry Propagation |
 
 ---
 
