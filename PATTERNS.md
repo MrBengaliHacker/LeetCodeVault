@@ -135,6 +135,7 @@ Use hash-based data structures or frequency arrays for fast lookup, anagram dete
 |---|---|---|---|---|
 | 1 | Two Sum | Hash Map | [LeetCode](https://leetcode.com/problems/two-sum/) | [Solution](./LeetCode/01-Arrays/1-Two-Sum.cpp) |
 | 217 | Contains Duplicate | Hash Set | [LeetCode](https://leetcode.com/problems/contains-duplicate/) | [Solution](./LeetCode/01-Arrays/217-Contains-Duplicate.cpp) |
+| 138 | Copy List with Random Pointer *(Hash Map)* | Hash Map + Original-to-Copy Node Mapping | [LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./LeetCode/03-Linked-Lists/138-Copy-List-with-Random-Pointer.cpp) |
 
 ### Frequency Counting
 
@@ -303,4 +304,6 @@ Structural pointer manipulation, circular linking, node swapping, and multi-list
 | 24 | Swap Nodes in Pairs | Three Pointers — Pairwise Swapping + Pointer Reconnection | [LeetCode](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Solution](./LeetCode/03-Linked-Lists/24-Swap-Nodes-in-Pairs.cpp) |
 | 2 | Add Two Numbers | Dummy Node + Two-List Traversal + Carry Propagation | [LeetCode](https://leetcode.com/problems/add-two-numbers/) | [Solution](./LeetCode/03-Linked-Lists/2-Add-Two-Numbers.cpp) |
 | 445 | Add Two Numbers II | Linked List Reversal + Dummy Node / Two Stacks | [LeetCode](https://leetcode.com/problems/add-two-numbers-ii/) | [Solution](./LeetCode/03-Linked-Lists/445-Add-Two-Numbers-II.cpp) |
+| 138 | Copy List with Random Pointer *(Interleaving)* | Node Interleaving + Pointer Rewiring | [LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./LeetCode/03-Linked-Lists/138-Copy-List-with-Random-Pointer.cpp) |
+
 ---
