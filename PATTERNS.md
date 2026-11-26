@@ -39,6 +39,7 @@ to study, recognize, and revise recurring algorithmic patterns.
 - [12. String Traversal, Matching & Simulation](#12-string-traversal-matching--simulation)
 - [13. Array Traversal & Construction](#13-array-traversal--construction)
 - [14. Linked List Manipulation & Rewiring](#14-linked-list-manipulation--rewiring)
+- [15. Data Structure Design](#15-data-structure-design)
 
 ---
 
@@ -306,5 +307,15 @@ Structural pointer manipulation, circular linking, node swapping, and multi-list
 | 445 | Add Two Numbers II | Linked List Reversal + Dummy Node / Two Stacks | [LeetCode](https://leetcode.com/problems/add-two-numbers-ii/) | [Solution](./LeetCode/03-Linked-Lists/445-Add-Two-Numbers-II.cpp) |
 | 138 | Copy List with Random Pointer *(Interleaving)* | Node Interleaving + Pointer Rewiring | [LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./LeetCode/03-Linked-Lists/138-Copy-List-with-Random-Pointer.cpp) |
 | 430 | Flatten a Multilevel Doubly Linked List | Doubly Linked List Splicing + Pointer Rewiring / Recursive DFS | [LeetCode](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution](./LeetCode/03-Linked-Lists/430-Flatten-a-Multilevel-Doubly-Linked-List.cpp) |
+
+---
+
+## 15. Data Structure Design
+
+Custom data structures that combine multiple data structures to achieve efficient time complexity across different operations.
+
+| # | Problem | Technique | LeetCode | Solution |
+|---|---|---|---|---|
+| 146 | LRU Cache | Hash Map + Doubly Linked List + List Splicing | [LeetCode](https://leetcode.com/problems/lru-cache/) | [Solution](./LeetCode/03-Linked-Lists/146-LRU-Cache.cpp) |
 
 ---
