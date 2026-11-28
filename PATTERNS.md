@@ -307,6 +307,7 @@ Structural pointer manipulation, circular linking, node swapping, and multi-list
 | 445 | Add Two Numbers II | Linked List Reversal + Dummy Node / Two Stacks | [LeetCode](https://leetcode.com/problems/add-two-numbers-ii/) | [Solution](./LeetCode/03-Linked-Lists/445-Add-Two-Numbers-II.cpp) |
 | 138 | Copy List with Random Pointer *(Interleaving)* | Node Interleaving + Pointer Rewiring | [LeetCode](https://leetcode.com/problems/copy-list-with-random-pointer/) | [Solution](./LeetCode/03-Linked-Lists/138-Copy-List-with-Random-Pointer.cpp) |
 | 430 | Flatten a Multilevel Doubly Linked List | Doubly Linked List Splicing + Pointer Rewiring / Recursive DFS | [LeetCode](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) | [Solution](./LeetCode/03-Linked-Lists/430-Flatten-a-Multilevel-Doubly-Linked-List.cpp) |
+| 148 | Sort List | Bottom-Up Merge Sort + In-Place Linked List Merging | [LeetCode](https://leetcode.com/problems/sort-list/) | [Solution](./LeetCode/03-Linked-Lists/148-Sort-List.cpp) |
 
 ---
 

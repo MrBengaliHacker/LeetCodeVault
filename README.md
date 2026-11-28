@@ -3,7 +3,7 @@
 <div align="center">
 
 ![Language](https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Problems](https://img.shields.io/badge/Problems%20Solved-85-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
+![Problems](https://img.shields.io/badge/Problems%20Solved-86-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Active%20Prep-2EA44F?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Pattern Index](https://img.shields.io/badge/Index-PATTERNS.md-8A2BE2?style=for-the-badge&logo=markdown&logoColor=white)
 
@@ -33,8 +33,8 @@ A structured collection of LeetCode solutions in modern C++, architected for eff
 | **00. Basics** | [`00-Programming-Basics`](./LeetCode/00-Programming-Basics) | Completed | 5 | 5 |
 | **01. Arrays** | [`01-Arrays`](./LeetCode/01-Arrays) | Completed | 30 | 30 |
 | **02. Strings** | [`02-Strings`](./LeetCode/02-Strings) | Completed | 30 | 30 |
-| **03. Linked Lists** | [`03-Linked-Lists`](./LeetCode/03-Linked-Lists) | In Progress | 20 | 23 |
-| **Total** | — | **Active** | **85** | **88+** |
+| **03. Linked Lists** | [`03-Linked-Lists`](./LeetCode/03-Linked-Lists) | In Progress | 21 | 23 |
+| **Total** | — | **Active** | **86** | **88+** |
 
 ---
 
@@ -134,7 +134,7 @@ A structured collection of LeetCode solutions in modern C++, architected for eff
 
 ### 03 - Linked Lists
 
-📁 **Directory:** [`./LeetCode/03-Linked-Lists`](./LeetCode/03-Linked-Lists) — **20/23** 🚧 In Progress
+📁 **Directory:** [`./LeetCode/03-Linked-Lists`](./LeetCode/03-Linked-Lists) — **21/23** 🚧 In Progress
 
 | # | Problem | Difficulty | Primary Technique |
 |---|---|---|---|
@@ -158,6 +158,7 @@ A structured collection of LeetCode solutions in modern C++, architected for eff
 | 138 | [Copy List with Random Pointer](./LeetCode/03-Linked-Lists/138-Copy-List-with-Random-Pointer.cpp) | Medium | Node Interweaving / Hash Map |
 | 430 | [Flatten a Multilevel Doubly Linked List](./LeetCode/03-Linked-Lists/430-Flatten-a-Multilevel-Doubly-Linked-List.cpp) | Medium | Doubly Linked List Splicing + Pointer Rewiring / Recursive DFS |
 | 146 | [LRU Cache](./LeetCode/03-Linked-Lists/146-LRU-Cache.cpp) | Medium | Hash Map + Doubly Linked List + List Splicing |
+| 148 | [Sort List](./LeetCode/03-Linked-Lists/148-Sort-List.cpp) | Medium | Bottom-Up Merge Sort + In-Place Linked List Merging |
 
 ---
 
